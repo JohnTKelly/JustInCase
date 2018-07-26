@@ -9,7 +9,8 @@ Better to have interview skills and not them then to need interview skills and n
 5. Install https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
 
 ## Next Steps:
-1. Read this https://code.visualstudio.com/docs/languages/markdown
-2. Read this https://code.visualstudio.com/docs/languages/csharp
-3. Watch this https://channel9.msdn.com/Blogs/dotnet/Get-started-VSCode-Csharp-NET-Core-Windows
-4. Read this https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger.md#once-for-each-project
+1. Read this https://code.visualstudio.com/docs/languages/csharp
+2. Watch this https://channel9.msdn.com/Blogs/dotnet/Get-started-VSCode-Csharp-NET-Core-Windows
+3. Read this https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger.md#once-for-each-project
+
+### [Markdown Cheatsheeet](https://www.gimp.org/about/meta/markdown.html)
